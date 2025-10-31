@@ -4,7 +4,7 @@ This project is a solution for the AI for Good Swahili ASR Challenge, focusing o
 
 ---
 
-## 🚀 Our Solution
+##  Solution
 
 Our approach combines a highly optimized model with cutting-edge training techniques to achieve state-of-the-art performance within strict resource constraints.
 
