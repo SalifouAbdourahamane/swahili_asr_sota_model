@@ -49,7 +49,7 @@ Our solution delivers a powerful combination of accuracy and speed, meeting all 
 
 ---
 
-## 🛠️ Reproducibility
+## Reproducibility
 
 The repository includes the necessary scripts to reproduce our results:
 * A training script to fine-tune the model.
